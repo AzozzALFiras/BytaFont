@@ -23,7 +23,7 @@ Library/BytaFont/Test.font
 المهند.font
 
 خط دبي
-دبي.fon
+دبي.font
 
 وخط داخل المجلد
 
